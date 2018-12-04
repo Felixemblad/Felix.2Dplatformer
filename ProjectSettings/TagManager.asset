@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Inviseblewall
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - EnemyTriggers
+  - Player
+  - Ground
+  - Coin
+  - guns
+  - Rats level 2
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: ground
+    uniqueID: 4114415167
+    locked: 0
+  - name: decoration
+    uniqueID: 4081303389
+    locked: 0
+  - name: objects
+    uniqueID: 310087145
+    locked: 0
+  - name: editorHelper
+    uniqueID: 2390161853
+    locked: 0
+  - name: Rats Level2
+    uniqueID: 2584872607
+    locked: 0
