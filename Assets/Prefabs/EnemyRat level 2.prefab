@@ -23,8 +23,8 @@ GameObject:
   - component: {fileID: 114705124003406726}
   - component: {fileID: 60991487819322520}
   - component: {fileID: 50484265012916780}
-  - component: {fileID: 114024379084525838}
   - component: {fileID: 114238368721168176}
+  - component: {fileID: 114205620040055930}
   m_Layer: 0
   m_Name: EnemyRat level 2
   m_TagString: Enemy
@@ -98,7 +98,7 @@ PolygonCollider2D:
       - {x: -0.34375, y: -0.5}
       - {x: 0.3125, y: -0.5}
       - {x: 0.30012292, y: -0.47204185}
---- !u!114 &114024379084525838
+--- !u!114 &114205620040055930
 MonoBehaviour:
   m_ObjectHideFlags: 1
   m_CorrespondingSourceObject: {fileID: 0}
@@ -169,7 +169,7 @@ SpriteRenderer:
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 310087145
-  m_SortingLayer: 3
+  m_SortingLayer: 4
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300012, guid: dd8e5474ed76e664e8f41936ce51d343, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}

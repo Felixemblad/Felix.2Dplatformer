@@ -23,6 +23,7 @@ GameObject:
   - component: {fileID: 58071731066352262}
   - component: {fileID: 114357277244418810}
   - component: {fileID: 50403341297210118}
+  - component: {fileID: 114530680951120294}
   m_Layer: 11
   m_Name: Coin rigedbody
   m_TagString: Untagged
@@ -90,6 +91,18 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   amount: 1
+--- !u!114 &114530680951120294
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1137484915751192}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa97be7564955d44fa352e6bfe0aec7f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  lifeTime: 8
 --- !u!212 &212575325197147294
 SpriteRenderer:
   m_ObjectHideFlags: 1

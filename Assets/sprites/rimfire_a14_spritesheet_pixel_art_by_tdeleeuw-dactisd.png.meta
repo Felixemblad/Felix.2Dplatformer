@@ -1,0 +1,1107 @@
+fileFormatVersion: 2
+guid: e8177f7cb61ee68479dd097ca0137934
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: rimfire_a14_spritesheet_pixel_art_by_tdeleeuw-dactisd_0
+    21300002: rimfire_a14_spritesheet_pixel_art_by_tdeleeuw-dactisd_1
+    21300004: rimfire_a14_spritesheet_pixel_art_by_tdeleeuw-dactisd_2
+    21300006: rimfire_a14_spritesheet_pixel_art_by_tdeleeuw-dactisd_3
+    21300008: rimfire_a14_spritesheet_pixel_art_by_tdeleeuw-dactisd_4
+    21300010: rimfire_a14_spritesheet_pixel_art_by_tdeleeuw-dactisd_5
+    21300012: rimfire_a14_spritesheet_pixel_art_by_tdeleeuw-dactisd_6
+    21300014: rimfire_a14_spritesheet_pixel_art_by_tdeleeuw-dactisd_7
+    21300016: rimfire_a14_spritesheet_pixel_art_by_tdeleeuw-dactisd_8
+    21300018: rimfire_a14_spritesheet_pixel_art_by_tdeleeuw-dactisd_9
+    21300020: rimfire_a14_spritesheet_pixel_art_by_tdeleeuw-dactisd_10
+    21300022: rimfire_a14_spritesheet_pixel_art_by_tdeleeuw-dactisd_11
+    21300024: rimfire_a14_spritesheet_pixel_art_by_tdeleeuw-dactisd_12
+    21300026: rimfire_a14_spritesheet_pixel_art_by_tdeleeuw-dactisd_13
+    21300028: rimfire_a14_spritesheet_pixel_art_by_tdeleeuw-dactisd_14
+    21300030: rimfire_a14_spritesheet_pixel_art_by_tdeleeuw-dactisd_15
+    21300032: rimfire_a14_spritesheet_pixel_art_by_tdeleeuw-dactisd_16
+    21300034: rimfire_a14_spritesheet_pixel_art_by_tdeleeuw-dactisd_17
+    21300036: rimfire_a14_spritesheet_pixel_art_by_tdeleeuw-dactisd_18
+    21300038: rimfire_a14_spritesheet_pixel_art_by_tdeleeuw-dactisd_19
+    21300040: rimfire_a14_spritesheet_pixel_art_by_tdeleeuw-dactisd_20
+    21300042: rimfire_a14_spritesheet_pixel_art_by_tdeleeuw-dactisd_21
+    21300044: rimfire_a14_spritesheet_pixel_art_by_tdeleeuw-dactisd_22
+    21300046: rimfire_a14_spritesheet_pixel_art_by_tdeleeuw-dactisd_23
+    21300048: rimfire_a14_spritesheet_pixel_art_by_tdeleeuw-dactisd_24
+    21300050: rimfire_a14_spritesheet_pixel_art_by_tdeleeuw-dactisd_25
+    21300052: rimfire_a14_spritesheet_pixel_art_by_tdeleeuw-dactisd_26
+    21300054: rimfire_a14_spritesheet_pixel_art_by_tdeleeuw-dactisd_27
+    21300056: rimfire_a14_spritesheet_pixel_art_by_tdeleeuw-dactisd_28
+    21300058: rimfire_a14_spritesheet_pixel_art_by_tdeleeuw-dactisd_29
+    21300060: rimfire_a14_spritesheet_pixel_art_by_tdeleeuw-dactisd_30
+    21300062: rimfire_a14_spritesheet_pixel_art_by_tdeleeuw-dactisd_31
+    21300064: rimfire_a14_spritesheet_pixel_art_by_tdeleeuw-dactisd_32
+    21300066: rimfire_a14_spritesheet_pixel_art_by_tdeleeuw-dactisd_33
+    21300068: rimfire_a14_spritesheet_pixel_art_by_tdeleeuw-dactisd_34
+    21300070: rimfire_a14_spritesheet_pixel_art_by_tdeleeuw-dactisd_35
+    21300072: rimfire_a14_spritesheet_pixel_art_by_tdeleeuw-dactisd_36
+    21300074: rimfire_a14_spritesheet_pixel_art_by_tdeleeuw-dactisd_37
+    21300076: rimfire_a14_spritesheet_pixel_art_by_tdeleeuw-dactisd_38
+    21300078: rimfire_a14_spritesheet_pixel_art_by_tdeleeuw-dactisd_39
+    21300080: rimfire_a14_spritesheet_pixel_art_by_tdeleeuw-dactisd_40
+    21300082: rimfire_a14_spritesheet_pixel_art_by_tdeleeuw-dactisd_41
+    21300084: rimfire_a14_spritesheet_pixel_art_by_tdeleeuw-dactisd_42
+    21300086: rimfire_a14_spritesheet_pixel_art_by_tdeleeuw-dactisd_43
+    21300088: rimfire_a14_spritesheet_pixel_art_by_tdeleeuw-dactisd_44
+    21300090: rimfire_a14_spritesheet_pixel_art_by_tdeleeuw-dactisd_45
+    21300092: rimfire_a14_spritesheet_pixel_art_by_tdeleeuw-dactisd_46
+    21300094: rimfire_a14_spritesheet_pixel_art_by_tdeleeuw-dactisd_47
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: rimfire_a14_spritesheet_pixel_art_by_tdeleeuw-dactisd_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 307
+        width: 84
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeaee7b473001ab4c810cebe00b97524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rimfire_a14_spritesheet_pixel_art_by_tdeleeuw-dactisd_1
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 300
+        width: 44
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e30111426245694ba6f09db0dde6dc9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rimfire_a14_spritesheet_pixel_art_by_tdeleeuw-dactisd_2
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 300
+        width: 81
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e16f0e40769eb5b4c84c2b9fb202c932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rimfire_a14_spritesheet_pixel_art_by_tdeleeuw-dactisd_3
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 302
+        width: 83
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4af70139bca1abd41b3dd84d2b75b2f1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rimfire_a14_spritesheet_pixel_art_by_tdeleeuw-dactisd_4
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 301
+        width: 83
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d74986de250f00f468c3115dbf8ab08b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rimfire_a14_spritesheet_pixel_art_by_tdeleeuw-dactisd_5
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 308
+        width: 77
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6b13ab6c48e848449ead01f00c01f9d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rimfire_a14_spritesheet_pixel_art_by_tdeleeuw-dactisd_6
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 302
+        width: 75
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 403878ad33bedc2409d6d9d52e238a3f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rimfire_a14_spritesheet_pixel_art_by_tdeleeuw-dactisd_7
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 257
+        width: 80
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcb44eade259aa14ba18fe1a5a7fddb6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rimfire_a14_spritesheet_pixel_art_by_tdeleeuw-dactisd_8
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 259
+        width: 82
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e646d81b7666f3429d0af2ba3136539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rimfire_a14_spritesheet_pixel_art_by_tdeleeuw-dactisd_9
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 252
+        width: 59
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 281b4ecbb8d16e2499d058fea045f839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rimfire_a14_spritesheet_pixel_art_by_tdeleeuw-dactisd_10
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 253
+        width: 72
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 384457b956d8ee143b4b85e8f9cc16ba
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rimfire_a14_spritesheet_pixel_art_by_tdeleeuw-dactisd_11
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 261
+        width: 74
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a846925507574ed4fa2b86c451783366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rimfire_a14_spritesheet_pixel_art_by_tdeleeuw-dactisd_12
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 257
+        width: 82
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab7a613e419f2764bb58e4b54eb56c54
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rimfire_a14_spritesheet_pixel_art_by_tdeleeuw-dactisd_13
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 248
+        width: 66
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b27c3de12ac6589478df189332e02f64
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rimfire_a14_spritesheet_pixel_art_by_tdeleeuw-dactisd_14
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 207
+        width: 38
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0151483eb24e9ce4284e98614d5d7e8f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rimfire_a14_spritesheet_pixel_art_by_tdeleeuw-dactisd_15
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 210
+        width: 82
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f24ec5011f88324cbebf81336265395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rimfire_a14_spritesheet_pixel_art_by_tdeleeuw-dactisd_16
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 207
+        width: 83
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cce50d91f00391e4586f58d5ef9a7299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rimfire_a14_spritesheet_pixel_art_by_tdeleeuw-dactisd_17
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 197
+        width: 70
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a395bcd7b3a7f704c90c23cac6763aa5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rimfire_a14_spritesheet_pixel_art_by_tdeleeuw-dactisd_18
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 207
+        width: 83
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b804e08ab3ceb4a468a80e650fe62a81
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rimfire_a14_spritesheet_pixel_art_by_tdeleeuw-dactisd_19
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 203
+        width: 82
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67fe858f3ef46df46a268010933d58c7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rimfire_a14_spritesheet_pixel_art_by_tdeleeuw-dactisd_20
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 204
+        width: 57
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5193af6065256de45a5d6f42e0165eef
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rimfire_a14_spritesheet_pixel_art_by_tdeleeuw-dactisd_21
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 160
+        width: 84
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 535a8d9bd6e24624fa130845b1da0e3a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rimfire_a14_spritesheet_pixel_art_by_tdeleeuw-dactisd_22
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 158
+        width: 82
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b764cb35547db74428f7d7ed6f924744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rimfire_a14_spritesheet_pixel_art_by_tdeleeuw-dactisd_23
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 157
+        width: 83
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85606a7b2ed152349b43b8f96b3fb4d9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rimfire_a14_spritesheet_pixel_art_by_tdeleeuw-dactisd_24
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 153
+        width: 83
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b5353739c4ccf64391116d6abb07c7f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rimfire_a14_spritesheet_pixel_art_by_tdeleeuw-dactisd_25
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 152
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f73e0e6c66fb8034c9eb6c1d6d1a780a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rimfire_a14_spritesheet_pixel_art_by_tdeleeuw-dactisd_26
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 163
+        width: 82
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59adb8de7cfac4b4485f1943e2a78cb2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rimfire_a14_spritesheet_pixel_art_by_tdeleeuw-dactisd_27
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 151
+        width: 40
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03617dbefeb25bd44904b1f7f332f7c3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rimfire_a14_spritesheet_pixel_art_by_tdeleeuw-dactisd_28
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 106
+        width: 84
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bea58adfd5e94644cacabeebfea194a0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rimfire_a14_spritesheet_pixel_art_by_tdeleeuw-dactisd_29
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 106
+        width: 66
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b38d8be29736174f8345bb4378f99a8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rimfire_a14_spritesheet_pixel_art_by_tdeleeuw-dactisd_30
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 114
+        width: 83
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6fd442cd8fb294458939b3d17cd383c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rimfire_a14_spritesheet_pixel_art_by_tdeleeuw-dactisd_31
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 104
+        width: 46
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 244451360847c774ba47a9d40228907f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rimfire_a14_spritesheet_pixel_art_by_tdeleeuw-dactisd_32
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 111
+        width: 83
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f3be8c71a2f2d04083ddf6c8299f5fd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rimfire_a14_spritesheet_pixel_art_by_tdeleeuw-dactisd_33
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 105
+        width: 51
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a26b363597caec46817323eefc9f898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rimfire_a14_spritesheet_pixel_art_by_tdeleeuw-dactisd_34
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 105
+        width: 45
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d51feaaa355e11418643da60e5e2268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rimfire_a14_spritesheet_pixel_art_by_tdeleeuw-dactisd_35
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 61
+        width: 84
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78a4916bb21bfb64e930d1c216ebe224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rimfire_a14_spritesheet_pixel_art_by_tdeleeuw-dactisd_36
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 65
+        width: 82
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfb5be76493f7bc47a29fd6bcb6901b7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rimfire_a14_spritesheet_pixel_art_by_tdeleeuw-dactisd_37
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 56
+        width: 80
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d14f6060f6bb32948b4b0fa5c872cc6a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rimfire_a14_spritesheet_pixel_art_by_tdeleeuw-dactisd_38
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 55
+        width: 54
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dfdc64d4a1959c4488e2776bacfd20e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rimfire_a14_spritesheet_pixel_art_by_tdeleeuw-dactisd_39
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 60
+        width: 83
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbd80f5fe2fba994f99f1722ad210280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rimfire_a14_spritesheet_pixel_art_by_tdeleeuw-dactisd_40
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 56
+        width: 43
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d086f680e235b54785ae1eeef8d0135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rimfire_a14_spritesheet_pixel_art_by_tdeleeuw-dactisd_41
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 53
+        width: 84
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60b84ce2bfcda374381ee61820e06d91
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rimfire_a14_spritesheet_pixel_art_by_tdeleeuw-dactisd_42
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 12
+        width: 82
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 260606bb38ca4bd4f80f85b4aa9bbd55
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rimfire_a14_spritesheet_pixel_art_by_tdeleeuw-dactisd_43
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 11
+        width: 83
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fee0b648f50064540a907b49c57fa513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rimfire_a14_spritesheet_pixel_art_by_tdeleeuw-dactisd_44
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 4
+        width: 67
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62d6338dff71d2140a6985c037cc20df
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rimfire_a14_spritesheet_pixel_art_by_tdeleeuw-dactisd_45
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 7
+        width: 39
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 731b10983b448c24d8d58b62d8cbe16e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rimfire_a14_spritesheet_pixel_art_by_tdeleeuw-dactisd_46
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 10
+        width: 82
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ea5752f369787340bd3b6350ac852f9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rimfire_a14_spritesheet_pixel_art_by_tdeleeuw-dactisd_47
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 10
+        width: 80
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b7b21f9fd9e02c4185fdd80f753d390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: a9311481080779c4cb9497c0911bb3a1
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

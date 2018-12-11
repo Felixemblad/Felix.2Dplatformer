@@ -11,7 +11,7 @@ public class PlayerMovment : MonoBehaviour
 
     // binder sig till grundCheker
     public GrundChecker ground;
-    //binder sig till rigedbody
+    //binder sig till rigedbody En rigedbody är det som ger fusic till ett obiject
     private Rigidbody2D rbody;
 
     // Use this for initialization

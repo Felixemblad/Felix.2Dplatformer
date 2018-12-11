@@ -19,7 +19,7 @@ public class scoretext : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        //Visar dit score i TextMeshProUGUi här använder vi string format för att ge oss texten som står först
+        //Visar dit score i TextMeshProUGUi här använder vi string format för att ge oss texten som står först och det räknar antalet coins du har tagit
         text.text = string.Format("score: {0:0000}", coin.score); 
        
     }
